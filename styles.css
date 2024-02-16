@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #6f29ca;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(239, 215, 250);
+}
+
+h1 {
+    color: #e671e0;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #c05a96;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+
+h3 {
+    color: rgb(248, 46, 140);
+}
+#numeroInput{
+    background-color: #e2b6e7;
+    padding: 10px 20px;
+    font-size: 14px;
+    text-align: center;
+}
+#resultado{
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(194, 74, 19);
+}
